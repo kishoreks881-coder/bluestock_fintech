@@ -1,0 +1,51 @@
+scheme_code,scheme_name,fund_house,category,sub_category,risk_grade
+100001,Scheme 0,HDFC MF,Hybrid,Large Cap,High
+100002,Scheme 1,Axis MF,Debt,Small Cap,Low
+100003,Scheme 2,SBI MF,Debt,Small Cap,Moderate
+100004,Scheme 3,Nippon MF,Equity,Small Cap,Moderate
+100005,Scheme 4,HDFC MF,Debt,Liquid,Very High
+100006,Scheme 5,ICICI MF,Debt,Mid Cap,Moderate
+100007,Scheme 6,HDFC MF,Hybrid,Mid Cap,Very High
+100008,Scheme 7,ICICI MF,Debt,Small Cap,Very High
+100009,Scheme 8,HDFC MF,Equity,Large Cap,Very High
+100010,Scheme 9,ICICI MF,Hybrid,Large Cap,Moderate
+100011,Scheme 10,Axis MF,Index,Mid Cap,Very High
+100012,Scheme 11,ICICI MF,Hybrid,Large Cap,High
+100013,Scheme 12,ICICI MF,Equity,Mid Cap,Low
+100014,Scheme 13,SBI MF,Hybrid,Small Cap,Low
+100015,Scheme 14,ICICI MF,Hybrid,Mid Cap,Very High
+100016,Scheme 15,SBI MF,Equity,Mid Cap,Low
+100017,Scheme 16,Nippon MF,Hybrid,Small Cap,Moderate
+100018,Scheme 17,SBI MF,Equity,Large Cap,Moderate
+100019,Scheme 18,Axis MF,Equity,Mid Cap,Low
+100020,Scheme 19,SBI MF,Index,Mid Cap,Moderate
+100021,Scheme 20,Nippon MF,Debt,Small Cap,Low
+100022,Scheme 21,Axis MF,Debt,Large Cap,Low
+100023,Scheme 22,HDFC MF,Hybrid,Mid Cap,Low
+100024,Scheme 23,HDFC MF,Hybrid,Small Cap,Very High
+100025,Scheme 24,SBI MF,Index,Mid Cap,Low
+100026,Scheme 25,SBI MF,Index,Liquid,Very High
+100027,Scheme 26,Nippon MF,Index,Small Cap,Low
+100028,Scheme 27,Nippon MF,Equity,Large Cap,Low
+100029,Scheme 28,ICICI MF,Index,Large Cap,Low
+100030,Scheme 29,Nippon MF,Index,Large Cap,Moderate
+100031,Scheme 30,ICICI MF,Hybrid,Large Cap,Very High
+100032,Scheme 31,Axis MF,Index,Mid Cap,Very High
+100033,Scheme 32,SBI MF,Equity,Mid Cap,Low
+100034,Scheme 33,Axis MF,Equity,Large Cap,Low
+100035,Scheme 34,Nippon MF,Hybrid,Large Cap,Moderate
+100036,Scheme 35,Axis MF,Index,Large Cap,Moderate
+100037,Scheme 36,Axis MF,Index,Mid Cap,Moderate
+100038,Scheme 37,Axis MF,Equity,Large Cap,Very High
+100039,Scheme 38,Nippon MF,Index,Large Cap,Very High
+100040,Scheme 39,Axis MF,Index,Liquid,Very High
+100041,Scheme 40,ICICI MF,Index,Liquid,Low
+100042,Scheme 41,Nippon MF,Debt,Large Cap,Very High
+100043,Scheme 42,Axis MF,Hybrid,Small Cap,High
+100044,Scheme 43,Nippon MF,Debt,Large Cap,High
+100045,Scheme 44,HDFC MF,Hybrid,Liquid,Moderate
+100046,Scheme 45,ICICI MF,Equity,Small Cap,Very High
+100047,Scheme 46,Axis MF,Index,Small Cap,High
+100048,Scheme 47,HDFC MF,Hybrid,Large Cap,Moderate
+100049,Scheme 48,HDFC MF,Debt,Liquid,Very High
+100050,Scheme 49,Nippon MF,Index,Liquid,Low

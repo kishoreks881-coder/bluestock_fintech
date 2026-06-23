@@ -1,0 +1,78 @@
+DATA QUALITY SUMMARY — Day 1
+
+==================================================
+
+
+Dataset: nav_history
+  Rows       : 1000
+  Columns    : 3
+  Columns    : ['date', 'scheme_code', 'nav']
+  Missing Val: 0
+  Duplicates : 0
+
+Dataset: fund_master
+  Rows       : 50
+  Columns    : 6
+  Columns    : ['scheme_code', 'scheme_name', 'fund_house', 'category', 'sub_category', 'risk_grade']
+  Missing Val: 0
+  Duplicates : 0
+
+Dataset: stock_prices
+  Rows       : 500
+  Columns    : 7
+  Columns    : ['date', 'symbol', 'open', 'high', 'low', 'close', 'volume']
+  Missing Val: 0
+  Duplicates : 0
+
+Dataset: sip_transactions
+  Rows       : 200
+  Columns    : 7
+  Columns    : ['transaction_id', 'investor_id', 'scheme_code', 'amount', 'date', 'units_allotted', 'nav_at_purchase']
+  Missing Val: 0
+  Duplicates : 0
+
+Dataset: investor_profile
+  Rows       : 50
+  Columns    : 6
+  Columns    : ['investor_id', 'name', 'age', 'city', 'risk_appetite', 'kyc_status']
+  Missing Val: 17
+  Duplicates : 0
+
+Dataset: portfolio_holdings
+  Rows       : 300
+  Columns    : 5
+  Columns    : ['investor_id', 'scheme_code', 'units_held', 'avg_nav', 'current_nav']
+  Missing Val: 0
+  Duplicates : 0
+
+Dataset: redemptions
+  Rows       : 100
+  Columns    : 6
+  Columns    : ['redemption_id', 'investor_id', 'scheme_code', 'units_redeemed', 'nav_at_redemption', 'date']
+  Missing Val: 0
+  Duplicates : 0
+
+Dataset: market_index
+  Rows       : 1000
+  Columns    : 5
+  Columns    : ['date', 'index_name', 'open', 'close', 'returns_pct']
+  Missing Val: 0
+  Duplicates : 0
+
+Dataset: expense_ratio
+  Rows       : 50
+  Columns    : 4
+  Columns    : ['scheme_code', 'expense_ratio', 'exit_load_pct', 'lock_in_days']
+  Missing Val: 0
+  Duplicates : 0
+
+Dataset: dividends
+  Rows       : 100
+  Columns    : 4
+  Columns    : ['scheme_code', 'dividend_date', 'dividend_per_unit', 'record_nav']
+  Missing Val: 0
+  Duplicates : 0
+
+
+ANOMALIES DETECTED:
+  - investor_profile: {'kyc_status': 17}
